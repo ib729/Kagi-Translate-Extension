@@ -1,2 +1,2 @@
 # Kagi-Translate-Extension
-A lightweight Chrome extension that adds a right-click context menu to translate selected text using Kagi Translate.
+Chrome extension that adds a right-click context menu to translate selected text using Kagi Translate. Offers two modes: "Standard" for quick translations and "Best" for high-quality results.
